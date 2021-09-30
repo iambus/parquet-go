@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/fraugster/parquet-go/parquet"
-	"github.com/fraugster/parquet-go/parquetschema"
+	"github.com/iambus/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquetschema"
 	"github.com/pkg/errors"
 )
 

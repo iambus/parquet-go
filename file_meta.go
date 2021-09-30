@@ -5,7 +5,7 @@ import (
 	"encoding/binary"
 	"io"
 
-	"github.com/fraugster/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquet"
 	"github.com/pkg/errors"
 )
 

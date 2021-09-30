@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/fraugster/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquet"
 	"github.com/stretchr/testify/require"
 )
 

@@ -5,8 +5,8 @@ import (
 	"errors"
 	"io"
 
-	"github.com/fraugster/parquet-go/parquet"
-	"github.com/fraugster/parquet-go/parquetschema"
+	"github.com/iambus/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquetschema"
 )
 
 // FileWriter is used to write data to a parquet file. Always use NewFileWriter

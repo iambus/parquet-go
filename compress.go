@@ -9,8 +9,8 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/fraugster/parquet-go/parquet"
 	"github.com/golang/snappy"
+	"github.com/iambus/parquet-go/parquet"
 )
 
 var (

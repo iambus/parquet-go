@@ -8,8 +8,8 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/fraugster/parquet-go/parquet"
-	"github.com/fraugster/parquet-go/parquetschema"
+	"github.com/iambus/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquetschema"
 )
 
 var sizeFixture = []struct {

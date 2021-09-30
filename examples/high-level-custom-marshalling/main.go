@@ -4,11 +4,11 @@ import (
 	"log"
 	"reflect"
 
-	goparquet "github.com/fraugster/parquet-go"
-	"github.com/fraugster/parquet-go/floor"
-	"github.com/fraugster/parquet-go/floor/interfaces"
-	"github.com/fraugster/parquet-go/parquet"
-	"github.com/fraugster/parquet-go/parquetschema"
+	goparquet "github.com/iambus/parquet-go"
+	"github.com/iambus/parquet-go/floor"
+	"github.com/iambus/parquet-go/floor/interfaces"
+	"github.com/iambus/parquet-go/parquet"
+	"github.com/iambus/parquet-go/parquetschema"
 )
 
 func main() {

@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"testing"
 
-	goparquet "github.com/fraugster/parquet-go"
-	"github.com/fraugster/parquet-go/parquet"
+	goparquet "github.com/iambus/parquet-go"
+	"github.com/iambus/parquet-go/parquet"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 )

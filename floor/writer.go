@@ -8,11 +8,11 @@ import (
 	"reflect"
 	"time"
 
-	"github.com/fraugster/parquet-go/floor/interfaces"
-	"github.com/fraugster/parquet-go/parquetschema"
+	"github.com/iambus/parquet-go/floor/interfaces"
+	"github.com/iambus/parquet-go/parquetschema"
 
-	goparquet "github.com/fraugster/parquet-go"
-	"github.com/fraugster/parquet-go/parquet"
+	goparquet "github.com/iambus/parquet-go"
+	"github.com/iambus/parquet-go/parquet"
 )
 
 // NewWriter creates a new high-level writer for parquet.

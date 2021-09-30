@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/fraugster/parquet-go/cmd/parquet-tool/cmds"
+	"github.com/iambus/parquet-go/cmd/parquet-tool/cmds"
 )
 
 func main() {

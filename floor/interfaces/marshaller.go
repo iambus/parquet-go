@@ -1,6 +1,6 @@
 package interfaces
 
-import "github.com/fraugster/parquet-go/parquetschema"
+import "github.com/iambus/parquet-go/parquetschema"
 
 // Marshaller is the interface necessary for objects to be
 // marshalled when passed to the (*Writer).WriteRecord method.
